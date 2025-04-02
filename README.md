@@ -1,1 +1,1 @@
-# AGI-Git - ETH Hangzhou
+# AGI-Git
