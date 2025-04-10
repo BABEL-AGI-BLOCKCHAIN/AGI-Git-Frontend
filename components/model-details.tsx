@@ -310,7 +310,7 @@ output = model.generate("Your input text here")`}
                 </div>
                 <div className="flex items-center gap-2">
                   <div className="h-2 w-2 rounded-full bg-green-500"></div>
-                  <span className="text-sm">IPFS distributed storage</span>
+                  <span className="text-sm">Nostr Nodes distributed storage</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <div className="h-2 w-2 rounded-full bg-green-500"></div>
