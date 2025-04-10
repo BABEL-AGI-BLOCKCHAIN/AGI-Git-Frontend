@@ -169,7 +169,7 @@ export function NodeManagementPanel() {
                   <div className="flex justify-between">
                     <span className="text-sm text-muted-foreground">Storage Path</span>
                     <div className="flex items-center gap-2">
-                      <span className="text-sm font-mono">/data/ipfs</span>
+                      <span className="text-sm font-mono">/data/nostr</span>
                       <Button variant="outline" size="sm">
                         Change
                       </Button>

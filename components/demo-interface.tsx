@@ -175,7 +175,7 @@ export function DemoInterface() {
                 <Card>
                   <CardHeader>
                     <CardTitle>Downloading Model</CardTitle>
-                    <CardDescription>Retrieving encrypted model from IPFS</CardDescription>
+                    <CardDescription>Retrieving encrypted model from Nostr Node</CardDescription>
                   </CardHeader>
                   <CardContent>
                     <div className="space-y-2">
@@ -295,14 +295,14 @@ export function DemoInterface() {
                 <h3 className="text-lg font-medium">2. Key Sharding</h3>
                 <p className="text-muted-foreground">
                   The encryption keys are split into multiple shards using a secure sharding algorithm. These shards are
-                  distributed across multiple IPFS nodes for redundancy and security.
+                  distributed across multiple Nostr nodes for redundancy and security.
                 </p>
               </div>
               <div className="space-y-2">
                 <h3 className="text-lg font-medium">3. Purchase Process</h3>
                 <p className="text-muted-foreground">
                   When a user purchases a model, the smart contract verifies the payment and triggers the key retrieval
-                  process. The key shards are collected from IPFS nodes and reassembled.
+                  process. The key shards are collected from Nostr nodes and reassembled.
                 </p>
               </div>
               <div className="space-y-2">
@@ -315,7 +315,7 @@ export function DemoInterface() {
               <div className="space-y-2">
                 <h3 className="text-lg font-medium">5. Decentralized Storage</h3>
                 <p className="text-muted-foreground">
-                  The encrypted model files are stored on IPFS, a decentralized storage network. This ensures that the
+                  The encrypted model files are stored on Nostr Nodes, a decentralized storage network. This ensures that the
                   models remain available even if individual nodes go offline.
                 </p>
               </div>

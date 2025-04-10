@@ -12,7 +12,7 @@ export function HeroSection() {
                 Decentralized AI Model Marketplace
               </h1>
               <p className="max-w-[600px] text-muted-foreground md:text-xl">
-                Buy, sell, and share AI models securely with decentralized key management and IPFS storage.
+                Buy, sell, and share AI models securely with decentralized key management and Nostr storage.
               </p>
             </div>
             <div className="flex flex-col gap-2 min-[400px]:flex-row">
